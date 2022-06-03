@@ -1,5 +1,5 @@
 # Hasan Balhaev
 My first site!!!
 
-[Первый урок](khasan7778.github.io/Hello_world/index.html "Первый сайт!!!")
+[Первый урок](khasan7778.github.io/Hello_world/ "Первый сайт!!!")
 
