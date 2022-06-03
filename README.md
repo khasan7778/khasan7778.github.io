@@ -1,2 +1,2 @@
-# khasan7778.github.io
-Мой первый опубликованный сайт
+# Hasan Balhaev
+My first site!!!
