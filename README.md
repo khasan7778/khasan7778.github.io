@@ -1,7 +1,7 @@
 # Hasan Balhaev
 My first site!!!
 
-[Резюме](https://khasan7778.github.io/Resume/index.html "Резюме")
+[Резюме](https://khasan7778.github.io/Resume "Резюме")
 
-[Пекарня](khasan7778.github.io/Bakery/index.html "Пекарня")
+[Пекарня](https://khasan7778.github.io/Bakery "Пекарня")
 
