@@ -1,0 +1,14 @@
+body {
+    background: url(../Images/kak_otkryt_svoyu_pekarnyu.jpg)
+    no-repeat;
+    background-size:100%;
+    color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: gold;
+}

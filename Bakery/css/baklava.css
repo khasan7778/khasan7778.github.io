@@ -1,0 +1,17 @@
+body {
+    background: url(../Images/41EC302E-BF0D-4632-B0FD-0C916C6076C1_1_105_c.jpeg)
+    no-repeat
+    center
+    center;
+    background-size:cover;
+    height: 110vh;
+    color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: gold;
+}
